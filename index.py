@@ -1,0 +1,2 @@
+print("My name is Precious. I'm 50 years old. I'm from Imo State. I'm a graduate and have worked with several companies but currently unemployed. I'm married. ")
+print("My Hobbies are dancing, singing, traveling, swimming, etc")
